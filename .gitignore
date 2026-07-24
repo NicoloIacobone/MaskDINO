@@ -1,3 +1,6 @@
+# env dir
+myenv
+
 # output dir
 output
 instant_test_output
@@ -8,6 +11,7 @@ inference_test_output
 *.json
 *.diff
 *.jpg
+*.jpeg
 !/projects/DensePose/doc/images/*.jpg
 
 # compilation and distribution
